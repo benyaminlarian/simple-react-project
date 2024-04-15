@@ -1,0 +1,13 @@
+
+.local {
+    display: table;
+}
+
+.div1 {
+    display: table-cell;
+    width: 50%;
+}
+
+.div2 {
+    display: table-cell;
+}

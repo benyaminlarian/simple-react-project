@@ -1,0 +1,12 @@
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: auto;
+    flex-direction: column;
+    flex-basis: 100%;
+    background-color: blue;
+    margin-top: 0.5rem;
+    border-radius: 3px;
+    max-height: 50rem;
+}
